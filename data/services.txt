@@ -1,0 +1,3 @@
+DV001|Nuoc suoi|15000|chai
+DV002|Giat ui|50000|kg
+DV003|An sang buffet|120000|suat

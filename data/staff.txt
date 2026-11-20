@@ -1,0 +1,3 @@
+QuanLy|QL01|Tran Anh Quan|0901234567|079099001234|anhquan@hotel.com|Quan ly dieu hanh|20000000|01/01/2020|5000000|5
+NhanVien|NV01|Nguyen Van Hung|0987654321|079098001111|hungnv@hotel.com|Le tan|8000000|10/05/2022
+NhanVien|NV02|Pham Thi Huong|0978111222|079098002222|huongpt@hotel.com|Ke toan|9000000|01/08/2022
